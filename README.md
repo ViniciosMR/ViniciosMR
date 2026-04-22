@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinicios
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning about HTML, CSS and Js
+- 👀 I’m interested in Fullstack Dev
+- 🌱 I’m currently learning about Fullstack Development
 - 📫 How to reach me: www.linkedin.com/in/vinicios-martins-riboldi-221a4a2a1 or viniciosriboldimartins@gmail.com
 
 
