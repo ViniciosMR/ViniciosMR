@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @Vinicios
-- 👀 I’m interested in Fullstack Dev
-- 🌱 I’m currently learning about Fullstack Development
-- 📫 How to reach me: www.linkedin.com/in/vinicios-martins-riboldi-221a4a2a1 or viniciosriboldimartins@gmail.com
+## 👋 Hello, I’m Vinicios Riboldi
+
+I'm a student of **Analysis and Systems Development** and currently in transition to the **Fullstack Development** area.
+
+### 💼 Professional background
+
+I work in a **critical support environment**, dealing with systems,
+software and infrastructure issues in high-demand scenarios. This experience strengthened mu problem-solving skills and technical mindset.
+
+## 🛠 Tech stack
+
+- HTML | CSS | JavaScript |
+- Java | MySQL
+- Git & Github
+
+
+
+### 🚀 What I’m doing now
+
+- Building Frontend and Fullstack study projects
+- Improving code organization and best practices
+- Structuring a  professional portfolio on Github
+
+### 📫 Contact
+
+- LinkedIn:<www.linkedin.com/in/viniciosriboldi
 
 
 <!---
