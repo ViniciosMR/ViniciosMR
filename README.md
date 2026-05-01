@@ -5,7 +5,7 @@ I'm a student of **Analysis and Systems Development** and currently in transitio
 ### 💼 Professional background
 
 I work in a **critical support environment**, dealing with systems,
-software and infrastructure issues in high-demand scenarios. This experience strengthened mu problem-solving skills and technical mindset.
+software and infrastructure issues in high-demand scenarios. This experience strengthened my problem-solving skills and technical mindset.
 
 ## 🛠 Tech stack
 
